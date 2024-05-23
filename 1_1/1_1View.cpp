@@ -168,3 +168,4 @@ int CMy11View::OnCreate(LPCREATESTRUCT lpCreateStruct)
 }
 
 // CMy11View 消息处理程序
+//99+更新
